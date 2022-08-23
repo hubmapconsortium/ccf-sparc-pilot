@@ -54,7 +54,7 @@
     "rotation_units": "degree",
     "x_translation": 0,
     "y_translation": 0,
-    "z_translation": 0,
+    "z_translation": 150,
     "translation_units": "millimeter"
   },
   "reference_organ": "http://purl.org/ccf/latest/ccf.owl#SPARCMHeart",
