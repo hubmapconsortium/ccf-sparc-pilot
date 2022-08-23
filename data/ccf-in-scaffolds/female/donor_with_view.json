@@ -1,0 +1,123 @@
+[
+   {
+      "GroupName" : "Donor1",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "RegionPath" : "Donor1",
+      "Type" : "Surfaces",
+      "URL" : "heart_f_2.json"
+   },
+   {
+      "GroupName" : "Donor3",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "RegionPath" : "Donor3",
+      "Type" : "Surfaces",
+      "URL" : "heart_f_3.json"
+   },
+   {
+      "GroupName" : "Donor5",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "RegionPath" : "Donor5",
+      "Type" : "Surfaces",
+      "URL" : "heart_f_4.json"
+   },
+   {
+      "GroupName" : "Donor7",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "RegionPath" : "Donor7",
+      "Type" : "Surfaces",
+      "URL" : "heart_f_5.json"
+   },
+   {  
+      "GroupName" : "Donor9",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "RegionPath" : "Donor9",
+      "Type" : "Surfaces",
+      "URL" : "heart_f_6.json"
+   },
+   {
+      "GroupName" : "Donor10",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "RegionPath" : "Donor10",
+      "Type" : "Surfaces",
+      "URL" : "heart_f_7.json"
+   },
+   {
+      "GroupName" : "Donor11",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "RegionPath" : "Donor11",
+      "Type" : "Surfaces",
+      "URL" : "heart_f_8.json"
+   },
+   {
+      "GroupName" : "Donor13",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "RegionPath" : "Donor13",
+      "Type" : "Surfaces",
+      "URL" : "heart_f_9.json"
+   },
+   {
+      "GroupName" : "Donor15",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "RegionPath" : "Donor15",
+      "Type" : "Surfaces",
+      "URL" : "heart_f_10.json"
+   },
+   { 
+      "GroupName" : "Donor17",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "RegionPath" : "Donor17",
+      "Type" : "Surfaces",
+      "URL" : "heart_f_11.json"
+   },
+   {                  
+      "GroupName" : "Donor19",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "RegionPath" : "Donor19",
+      "Type" : "Surfaces",
+      "URL" : "heart_f_12.json"
+   },
+   { 
+      "GroupName" : "Donor21",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "RegionPath" : "Donor21",
+      "Type" : "Surfaces",
+      "URL" : "heart_f_13.json"
+   },
+   { 
+      "GroupName" : "Donor23",
+      "MorphColours" : false,
+      "MorphNormals" : false,
+      "MorphVertices" : false,
+      "RegionPath" : "Donor23",
+      "Type" : "Surfaces",
+      "URL" : "heart_f_14.json"
+   },
+   {
+      "Type" : "View",
+      "URL" : "heart_f_view.json"
+   }
+]
