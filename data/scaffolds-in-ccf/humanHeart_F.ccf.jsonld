@@ -32,9 +32,9 @@
       "y_rotation": 0,
       "z_rotation": 0,
       "rotation_units": "degree",
-      "x_translation": 1.9472737,
-      "y_translation": -419.061868,
-      "z_translation": 43.505567,
+      "x_translation": 34.9527262,
+      "y_translation": -389.061868,
+      "z_translation": 106.605567,
       "translation_units": "millimeter"
     }
   },
@@ -52,9 +52,9 @@
     "y_rotation": 0,
     "z_rotation": 0,
     "rotation_units": "degree",
-    "x_translation": 0,
-    "y_translation": 0,
-    "z_translation": 150,
+    "x_translation": -36.9,
+    "y_translation": 30,
+    "z_translation": -63.1,
     "translation_units": "millimeter"
   },
   "reference_organ": "http://purl.org/ccf/latest/ccf.owl#SPARCFHeart",
