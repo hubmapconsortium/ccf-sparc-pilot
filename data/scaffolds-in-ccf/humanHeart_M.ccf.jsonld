@@ -17,7 +17,7 @@
   "object": {
     "@id": "http://purl.org/ccf/latest/ccf.owl#SPARCMHeartObj",
     "@type": "SpatialObjectReference",
-    "file": "https://hubmapconsortium.github.io/ccf-gtex-pilot/data/scaffolds-in-ccf/humanHeart_M.glb",
+    "file": "https://hubmapconsortium.github.io/ccf-sparc-pilot/data/scaffolds-in-ccf/humanHeart_M.glb",
     "file_format": "model/gltf-binary",
     "placement": {
       "@id": "http://purl.org/ccf/latest/ccf.owl#SPARCMHeartPlacement",

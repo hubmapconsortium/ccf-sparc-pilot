@@ -2,8 +2,8 @@
 
 ## Primary Deliverables
 
-* [SPARC heart scaffold fitted to HuBMAP CCF Heart reference organs](https://hubmapconsortium.github.io/ccf-gtex-pilot/ccf-eui.html)
-* [HuBMAP CCF Tissue Block registrations mapped to SPARC scaffold registrations](https://hubmapconsortium.github.io/ccf-gtex-pilot/scaffold-viewer-demo/)
+* [SPARC heart scaffold fitted to HuBMAP CCF Heart reference organs](https://hubmapconsortium.github.io/ccf-sparc-pilot/ccf-eui.html)
+* [HuBMAP CCF Tissue Block registrations mapped to SPARC scaffold registrations](https://hubmapconsortium.github.io/ccf-sparc-pilot/scaffold-viewer-demo/)
 
 ## Deliverables by Milestone
 
