@@ -6,7 +6,7 @@
 * [HuBMAP CCF Tissue Block registrations mapped to SPARC scaffold registrations](https://hubmapconsortium.github.io/ccf-sparc-pilot/scaffold-viewer-demo/)
 * A bi-directional process for mapping HuBMAP CCF RUI registrations to SPARC scaffold registrations ([code](https://github.com/SPARC-FAIR-Codeathon/hubmap-link/tree/main/tissue-block))
 * Revised Heart ASCT+B Table: [data](https://docs.google.com/spreadsheets/d/1UhEZpDxQLCJLLx0gnWYDMQP8M-dwjZo_vIyPfjBCcVM/edit#gid=1759721736) [demo](https://hubmapconsortium.github.io/ccf-asct-reporter/vis?selectedOrgans=heart-v1.1&playground=false)
-* Documentation: [Overview](https://docs.google.com/document/d/1wtPNV5Yanms5P939ldKB9wRXeR1Lk5CadZ2nsCkO5Gs/edit), [Scaffold Conversion](https://github.com/SPARC-FAIR-Codeathon/hubmap-link/tree/main/scaffold-to-ccf), [Regstration Conversion](https://github.com/SPARC-FAIR-Codeathon/hubmap-link/blob/main/tissue-block/README.md)
+* Documentation: [Overview](https://hubmapconsortium.github.io/ccf-sparc-pilot/hubmap-sparc-linkage-documentation.pdf) ([source](https://docs.google.com/document/d/1wtPNV5Yanms5P939ldKB9wRXeR1Lk5CadZ2nsCkO5Gs/edit)), [Scaffold Conversion](https://github.com/SPARC-FAIR-Codeathon/hubmap-link/tree/main/scaffold-to-ccf), [Registration Conversion](https://github.com/SPARC-FAIR-Codeathon/hubmap-link/blob/main/tissue-block/README.md)
 
 ## Deliverables by Milestone
 
