@@ -1,5 +1,5 @@
 # CCF-SPARC Pilot
-## NIH Title: FAIR API to GTEx
+## NIH Title: Anatomical Interoperation of Resources to SPARC
 
 ## Primary Deliverables
 
