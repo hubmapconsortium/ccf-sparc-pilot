@@ -1,5 +1,5 @@
 # CCF-SPARC Pilot
-## NIH Title: Anatomical Interoperation of Resources to SPARC
+## NIH Title: Anatomical Interoperation of Resources
 
 ## Primary Deliverables
 
