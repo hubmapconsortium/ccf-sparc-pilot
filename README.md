@@ -9,6 +9,10 @@
 * Revised Heart ASCT+B Table: [data](https://docs.google.com/spreadsheets/d/1UhEZpDxQLCJLLx0gnWYDMQP8M-dwjZo_vIyPfjBCcVM/edit#gid=1759721736) [demo](https://hubmapconsortium.github.io/ccf-asct-reporter/vis?selectedOrgans=heart-v1.1&playground=false)
 * Documentation: [Overview](https://hubmapconsortium.github.io/ccf-sparc-pilot/hubmap-sparc-linkage-documentation.pdf) ([source](https://docs.google.com/document/d/1wtPNV5Yanms5P939ldKB9wRXeR1Lk5CadZ2nsCkO5Gs/edit)), [Scaffold Conversion](https://github.com/SPARC-FAIR-Codeathon/hubmap-link/tree/main/scaffold-to-ccf), [Registration Conversion](https://github.com/SPARC-FAIR-Codeathon/hubmap-link/blob/main/tissue-block/README.md)
 
+## 4-minute demo
+
+[20220907_ccf-sparc-pilot-demo.mp4](https://hubmapconsortium.github.io/ccf-sparc-pilot/20220907_ccf-sparc-pilot-demo.mp4)
+
 ## Deliverables by Milestone
 
 | Deliverable or Milestone | Due Date | Status | Links
